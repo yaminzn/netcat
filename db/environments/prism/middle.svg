@@ -1,0 +1,96 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <g>
+    <defs>
+      <linearGradient id="prism_1__a" x1="2107.86" x2="2015.86" y1="1332.16" y2="2500.16"
+        gradientUnits="userSpaceOnUse">
+        <stop offset=".33" stop-color="#8ff7f2"></stop>
+        <stop offset=".37" stop-color="#92eff1"></stop>
+        <stop offset=".44" stop-color="#9cdbef"></stop>
+        <stop offset=".52" stop-color="#abb8ea"></stop>
+        <stop offset=".61" stop-color="#c189e5"></stop>
+        <stop offset=".72" stop-color="#dd4cdd"></stop>
+        <stop offset=".82" stop-color="#fe03d4"></stop>
+        <stop offset=".83" stop-color="#ff00d4"></stop>
+      </linearGradient>
+      <linearGradient id="prism_1__d" x1="2220.99" x2="2162.4" y1="1626.01" y2="2369.82" xlink:href="#prism_1__a">
+      </linearGradient>
+      <linearGradient id="prism_1__b" x1="2141.14" x2="1948" y1="1265.54" y2="2762.39" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fff" stop-opacity="0"></stop>
+        <stop offset="1" stop-color="#231f20"></stop>
+      </linearGradient>
+      <linearGradient id="prism_1__e" x1="1885.62" x2="2334.69" y1="1805.99" y2="1676.93" xlink:href="#prism_1__b">
+      </linearGradient>
+      <linearGradient id="prism_1__f" x1="2124.71" x2="2323.71" y1="1962.15" y2="2235.15" xlink:href="#prism_1__b">
+      </linearGradient>
+      <linearGradient id="prism_1__g" x1="2272.95" x2="1971.95" y1="1944.15" y2="2190.15" xlink:href="#prism_1__b">
+      </linearGradient>
+      <linearGradient id="prism_1__c" x1="2235.42" x2="1909.33" y1="1799.9" y2="2066.41" gradientUnits="userSpaceOnUse">
+        <stop offset="0" stop-color="#fff"></stop>
+        <stop offset=".11" stop-color="#fff" stop-opacity=".89"></stop>
+        <stop offset=".87" stop-color="#fff" stop-opacity="0"></stop>
+      </linearGradient>
+      <linearGradient id="prism_1__h" x1="2314.32" x2="2076.88" y1="1970.33" y2="2164.39" xlink:href="#prism_1__c">
+      </linearGradient>
+      <linearGradient id="prism_1__i" x1="2298.14" x2="2034.65" y1="1928.11" y2="2143.45" xlink:href="#prism_1__c">
+      </linearGradient>
+      <linearGradient id="prism_1__j" x1="1989.52" x2="2132.28" y1="1885.72" y2="1844.69" xlink:href="#prism_1__c">
+      </linearGradient>
+      <linearGradient id="prism_1__k" x1="2203.99" x2="2068.86" y1="1931.97" y2="2165.14" xlink:href="#prism_1__c">
+      </linearGradient>
+      <linearGradient id="prism_1__l" x1="1761.18" x2="2477.85" y1="1981.48" y2="1775.51" xlink:href="#prism_1__c">
+      </linearGradient>
+    </defs>
+    <g style="isolation:isolate">
+      <path fill="none" d="M0 0H3000V3000H0z"></path>
+      <g>
+        <path fill="url(#prism_1__a)"
+          d="M1996.4,1869.2s46.7,113,38.2,173.3-18.7,73.9-15.3,76.5,75.6,26.3,75.6,26.3l45.9-353.5V1649.9l-16.1-16.1-73.9,156.3-26.4,10.2Z">
+        </path>
+        <path fill="url(#prism_1__d)"
+          d="M2112.8 2029.5L2225.5 1934.1 2282.8 1926.1 2276.8 1974.1 2154.2 2168.8 2094.8 2142.8 2112.8 2029.5z">
+        </path>
+        <path style="mix-blend-mode:multiply" fill="url(#prism_1__b)"
+          d="M2072.2,1851.9s-18.1,99.5-26.1,140.5l1.3-24.9c1-56.3-35.5-136.6-35.5-136.6l-15.5,38.3c71.7,202.1,22.9,249.8,22.9,249.8l75.5,23.8c-3.5-42.7-10-72-11.9-98.9l7.3-182.4,48.6-184v-20.7Z">
+        </path>
+        <path style="mix-blend-mode:multiply" fill="url(#prism_1__e)"
+          d="M2133.2 1646.5L2122.1 1639.3 2050.8 1790.1 2024.4 1800.3 2067.4 1852.5 2068.9 1825.6 2070.7 1813.8 2133.2 1646.5z">
+        </path>
+        <path style="mix-blend-mode:multiply" fill="url(#prism_1__f)"
+          d="M2094.8 2142.8L2270.3 1940.2 2213.5 2028 2154.2 2168.8 2094.8 2142.8z"></path>
+        <path style="mix-blend-mode:multiply" fill="url(#prism_1__g)"
+          d="M2225.5,1934.1l21.2-2.9L2142.9,2028s-4.1,22.5-18.7,76c-1.6,5.7-28.2,33.6-28.2,33.6l16.8-108.1Z"></path>
+        <g style="mix-blend-mode:overlay">
+          <path fill="url(#prism_1__c)"
+            d="M2138.8 1702.5L2107.2 1866.5 2094.4 2034.4 2104.2 2083.5 2140.8 1791.8 2138.8 1702.5z"></path>
+          <path fill="url(#prism_1__h)" d="M2282.5 1946.5L2223.2 2025.6 2180.3 2129.8 2276.8 1974.1 2282.5 1946.5z">
+          </path>
+          <path fill="url(#prism_1__i)" d="M2282.8 1926.1L2138.8 2092 2154.6 2033.1 2253.2 1931.2 2282.8 1926.1z">
+          </path>
+          <path fill="url(#prism_1__j)"
+            d="M2022.1 1806.1L2050.8 1857.5 2050.8 1943.5 2072.7 1850.5 2024.4 1800.3 2022.1 1806.1z"></path>
+          <path fill="url(#prism_1__k)"
+            d="M2100.8 2115.1L2122.5 2038.1 2239.8 1932.1 2225.2 1934.5 2109.6 2032.8 2100.8 2115.1z"></path>
+          <path fill="#fff"
+            d="M2131.9,1641l-73.5,158.2-27.8,22.1-22.1,59.1-10.8-17.9s22.9-61.5,26.7-62.2,28.4-14.4,28.4-14.4l71.9-152.1Z">
+          </path>
+          <path fill="url(#prism_1__l)"
+            d="M2138.8 1673.6L2082.7 1855.7 2025.2 2120.2 2074.8 1846.1 2136.7 1659 2138.8 1673.6z"></path>
+        </g>
+        <g>
+          <path fill="none" stroke="#31323d" stroke-linecap="round" stroke-linejoin="round" stroke-width="12.5"
+            d="M2158.2,2164.5c3-2,119-193,119-193l6-46-58,9-114.4,97.1"></path>
+          <path fill="none" stroke="#31323d" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"
+            d="M2095.6 2140.7L2283.2 1925.5"></path>
+          <path fill="#31323d"
+            d="M1993,1865.5l14-33.3,13.8-33.5h0a4.5,4.5,0,0,1,2.8-2.6l25-9-2.7,2.3,75.9-157a5,5,0,0,1,6.5-2.3l1.3.9h0l14,13.9a5.2,5.2,0,0,1,1.4,3.5h0l.2,143c0,.2-.1.4-.1.6h0l-11,87.3-10.9,87.3-10.8,87.4-10.6,87.4a6.2,6.2,0,0,1-12.4-1.5h0l11.7-87.3,11.5-87.2,11.4-87.3,11.2-87.3V1648.5l1.4,3.4-14-14,7.8-1.3-76.1,156.9a4.6,4.6,0,0,1-2.7,2.4l-25,9,2.8-2.6-13.7,33.5-13.5,33.5a5,5,0,0,1-9.3-3.7Z">
+          </path>
+          <path fill="#31323d"
+            d="M2142.5,1649.3l-66,204.4h-.1a3.8,3.8,0,0,1-4.9,2.5,4.2,4.2,0,0,1-1.8-1.1l-46.4-53a2.6,2.6,0,0,1,.2-3.6,2.5,2.5,0,0,1,3.5.2l48.6,51-6.7,1.4,68.9-203.5a2.5,2.5,0,0,1,3.1-1.6A2.6,2.6,0,0,1,2142.5,1649.3Z">
+          </path>
+          <path fill="none" stroke="#31323d" stroke-linecap="round" stroke-linejoin="round" stroke-width="8"
+            d="M2038.2 2028L2072.7 1852.5"></path>
+        </g>
+      </g>
+    </g>
+  </g>

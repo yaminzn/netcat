@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="eye">
+    <circle fill="#FFF" cx="1702.8" cy="1118" r="129.7"></circle>
+    <clipPath id="eyeClipPath">
+      <circle cx="1702.8" cy="1118" r="129.7"></circle>
+    </clipPath>
+    <g clip-path="url(#eyeClipPath)">
+      <circle fill="#Ff9088" cx="1673.8" cy="1125.5" r="100.1"></circle>
+      <circle fill="#31323D" cx="1670.8" cy="1127.4" r="83"></circle>
+      <ellipse transform="rotate(-7.499 1710.423 1057.792)" fill="#FFF" cx="1710.1" cy="1057.6" rx="44.2" ry="44.2">
+      </ellipse>
+    </g>
+    <circle fill="none" stroke="#31323D" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" cx="1702.8"
+      cy="1118" r="129.7"></circle>
+    <circle fill="#FFF" stroke="#31323D" stroke-width="10" stroke-linecap="round" stroke-miterlimit="10" cx="1161.5"
+      cy="1129.3" r="129.7"></circle>
+    <circle fill="#Ff9088" cx="1197.1" cy="1155.4" r="65.8"></circle>
+    <circle fill="#31323D" cx="1200.1" cy="1156.4" r="53.4"></circle>
+    <circle fill="#FFF" cx="1215.9" cy="1109.7" r="29"></circle>
+  </g>

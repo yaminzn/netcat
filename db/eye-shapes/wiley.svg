@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <g id="eye">
+    <defs>
+      <clipPath id="eyeClipPath">
+        <circle cx="1696" cy="1101.3" r="129.7" transform="rotate(-68.1 1696.37388916 1101.3227275)" fill="#fff"
+          stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"></circle>
+      </clipPath>
+      <clipPath id="eyeClipPath2">
+        <circle cx="1168.9" cy="1127" r="129.7" transform="rotate(-23.1 1170.57230332 1127.99609272)" fill="#fff"
+          stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"></circle>
+      </clipPath>
+    </defs>
+    <path fill="none" d="M3000 3010L0 3000 0 0 3000 10 3000 3010z"></path>
+    <circle cx="1696" cy="1101.3" r="129.7" transform="rotate(-68.1 1696.37388916 1101.3227275)" fill="#fff"></circle>
+    <g clip-path="url(#eyeClipPath)">
+      <circle cx="1686.2" cy="1102.4" r="105.1" transform="rotate(-83.2 1685.61181377 1102.48410147)" fill="#43edac">
+      </circle>
+      <circle cx="1682.8" cy="1103.5" r="83" transform="rotate(-83.2 1682.21022125 1103.59307204)" fill="#31323d">
+      </circle>
+      <circle cx="1738.2" cy="1045.5" r="44.2" transform="rotate(-83.2 1737.6065591 1045.62246994)" fill="#fff">
+      </circle>
+    </g>
+    <circle cx="1696" cy="1101.3" r="129.7" transform="rotate(-68.1 1696.37388916 1101.3227275)" fill="none"
+      stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"></circle>
+    <path d="M1763.9 938.4c-69.4-36-117.5-25.9-164.1 24M1109.8 968.4c69.4-36 117.5-25.9 164.1 24" fill="none"
+      stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="30"></path>
+    <circle cx="1168.9" cy="1127" r="129.7" transform="rotate(-23.1 1170.57230332 1127.99609272)" fill="#fff"></circle>
+    <g clip-path="url(#eyeClipPath2)">
+      <circle cx="1180.2" cy="1126.6" r="105.1" transform="rotate(-7.5 1185.37964878 1131.12230357)" fill="#43edac">
+      </circle>
+      <circle cx="1177.2" cy="1128.5" r="83" transform="rotate(-7.5 1182.94109102 1133.26086132)" fill="#31323d">
+      </circle>
+      <circle cx="1216.4" cy="1058.6" r="44.2" transform="rotate(-7.5 1222.01945732 1063.0398658)" fill="#fff"></circle>
+    </g>
+    <circle cx="1168.9" cy="1127" r="129.7" transform="rotate(-23.1 1170.57230332 1127.99609272)" fill="none"
+      stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"></circle>
+    <path
+      d="M1795.8 1183.6a129.4 129.4 0 0 1-207-9.8s38.7-10.9 103.5-7.4S1795.8 1183.6 1795.8 1183.6zM1068.9 1209.7a129.4 129.4 0 0 0 207-9.8s-38.7-10.9-103.5-7.4S1068.9 1209.7 1068.9 1209.7z"
+      fill="#ded0ee"></path>
+    <path
+      d="M1795.8 1183.6a129.4 129.4 0 0 1-207-9.8s38.7-10.9 103.5-7.4S1795.8 1183.6 1795.8 1183.6zM1068.9 1209.7a129.4 129.4 0 0 0 207-9.8s-38.7-10.9-103.5-7.4S1068.9 1209.7 1068.9 1209.7z"
+      fill="none" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"></path>
+  </g>

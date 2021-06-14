@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <g id="eye">
+    <defs>
+      <linearGradient id="eyeColor1" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#a56429"></stop>
+      </linearGradient>
+      <linearGradient id="eyeColor2" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#a56429"></stop>
+      </linearGradient>
+    </defs>
+    <defs>
+      <clipPath id="eyes__a">
+        <path fill="#fff" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"
+          d="M1831.9 1100a129.7 129.7 0 1 1-257.2 34c-9.4-71 18.8-167.1 111.6-175.7 71.3-6.5 136.2 70.7 145.6 141.7z">
+        </path>
+      </clipPath>
+      <clipPath id="eyes__b">
+        <path fill="#fff" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"
+          d="M1037 1109a129.7 129.7 0 1 0 257.2 34c9.4-71-18.8-167.1-111.6-175.7-71.3-6.5-136.2 70.7-145.6 141.7z">
+        </path>
+      </clipPath>
+    </defs>
+    <path fill="#fff"
+      d="M1831.9 1100a129.7 129.7 0 1 1-257.2 34c-9.4-71 18.8-167.1 111.6-175.7 71.3-6.5 136.2 70.7 145.6 141.7z">
+    </path>
+    <g clip-path="url(#eyes__a)">
+      <circle cx="1702.3" cy="1142.4" r="97.5" fill="url(#eyeColor1)" transform="translate(-135.1 233) rotate(-7.5)">
+      </circle>
+      <circle cx="1702.3" cy="1142.4" r="79.2" fill="#31323d" transform="translate(-135.1 233) rotate(-7.5)"></circle>
+      <circle cx="1743.3" cy="1074.2" r="37.8" fill="#fff" transform="translate(-125.8 237.8) rotate(-7.5)"></circle>
+    </g>
+    <path fill="none" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"
+      d="M1831.9 1100a129.7 129.7 0 1 1-257.2 34c-9.4-71 18.8-167.1 111.6-175.7 71.3-6.5 136.2 70.7 145.6 141.7z">
+    </path>
+    <path fill="#fff"
+      d="M1037 1109a129.7 129.7 0 1 0 257.2 34c9.4-71-18.8-167.1-111.6-175.7-71.3-6.5-136.2 70.7-145.6 141.7z"></path>
+    <g clip-path="url(#eyes__b)">
+      <circle cx="1166.6" cy="1151.4" r="97.5" fill="url(#eyeColor2)" transform="translate(-140.9 162.9) rotate(-7.5)">
+      </circle>
+      <circle cx="1166.6" cy="1151.4" r="79.2" fill="#31323d" transform="translate(-140.9 162.9) rotate(-7.5)"></circle>
+      <circle cx="1207.6" cy="1083.2" r="37.8" fill="#fff" transform="matrix(0.99, -0.13, 0.13, 0.99, -131.58, 167.65)">
+      </circle>
+    </g>
+    <path fill="none" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"
+      d="M1037 1109a129.7 129.7 0 1 0 257.2 34c9.4-71-18.8-167.1-111.6-175.7-71.3-6.5-136.2 70.7-145.6 141.7z"></path>
+    <path fill="none" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="30"
+      d="M1103.5 940.2c23.1-29.9 51.2-50.7 90.4-44.6 51.6 8 74 38.9 86.3 74.1"></path>
+    <path fill="none" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="30"
+      d="M1758.2 930.2c-23.1-29.9-51.2-50.7-90.4-44.6-51.6 8-74 38.9-86.3 74.1"></path>
+  </g>

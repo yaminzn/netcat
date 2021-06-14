@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <g id="eye">
+    <defs>
+      <linearGradient id="eyeColor1" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#ef4b62"></stop>
+      </linearGradient>
+      <linearGradient id="eyeColor2" x2="0%" y2="100%">
+        <stop offset="0%" stop-color="#ef4b62"></stop>
+      </linearGradient>
+    </defs>
+    <defs>
+      <clipPath id="eyeClipPath">
+        <path data-name="&lt;Clipping Path&gt;"
+          d="M1297.3 1178.1s-62.4 62.4-134.1 61.8-132.1-39.3-131.5-111 59.8-138.7 130.8-128.7c137.9 19.5 134.8 177.9 134.8 177.9z"
+          fill="#fff" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"></path>
+      </clipPath>
+      <clipPath id="eyeClipPath2">
+        <path data-name="&lt;Clipping Path&gt;"
+          d="M1559.1 1164.1s62.4 62.4 134.1 61.8 132.1-39.3 131.5-111-59.8-138.7-130.8-128.7c-137.9 19.5-134.8 177.9-134.8 177.9z"
+          fill="#fff" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"></path>
+      </clipPath>
+    </defs>
+    <path data-name="&lt;Clipping Path&gt;"
+      d="M1297.3 1178.1s-62.4 62.4-134.1 61.8-132.1-39.3-131.5-111 59.8-138.7 130.8-128.7c137.9 19.5 134.8 177.9 134.8 177.9z"
+      fill="#fff"></path>
+    <g clip-path="url(#eyeClipPath)">
+      <circle cx="1192.2" cy="1136.4" r="105.1" transform="rotate(-89.5 1192.81426983 1136.44840624)"
+        fill="url(#eyeColor1)"></circle>
+      <circle cx="1188.9" cy="1137.9" r="77.5" transform="rotate(-89.5 1189.55638138 1137.91900386)" fill="#31323d">
+      </circle>
+      <circle cx="1237.5" cy="1074.1" r="44.2" transform="rotate(-89.5 1238.14195903 1074.07816688)" fill="#fff">
+      </circle>
+    </g>
+    <path data-name="&lt;Clipping Path&gt;"
+      d="M1297.3 1178.1s-62.4 62.4-134.1 61.8-132.1-39.3-131.5-111 59.8-138.7 130.8-128.7c137.9 19.5 134.8 177.9 134.8 177.9z"
+      fill="none" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"></path>
+    <path d="M1034.2 1148.3s-41.6-75.9-39.4-114.1c0 0 21.7 16.6 38 13.7l-8.9-22.9 53.3 6.7s-63.7 36.1-43 116.6z"
+      fill="#31323d"></path>
+    <path data-name="&lt;Clipping Path&gt;"
+      d="M1559.1 1164.1s62.4 62.4 134.1 61.8 132.1-39.3 131.5-111-59.8-138.7-130.8-128.7c-137.9 19.5-134.8 177.9-134.8 177.9z"
+      fill="#fff"></path>
+    <g clip-path="url(#eyeClipPath2)">
+      <circle cx="1664.2" cy="1122.4" r="105.1" transform="rotate(-.5 1553.88531254 1049.57656942)"
+        fill="url(#eyeColor2)"></circle>
+      <circle cx="1667.5" cy="1123.9" r="77.5" transform="rotate(-.5 1553.88531254 1049.57656942)" fill="#31323d">
+      </circle>
+      <circle cx="1618.9" cy="1060.1" r="44.2" transform="rotate(-.5 1508.29897982 992.08115352)" fill="#fff"></circle>
+    </g>
+    <path data-name="&lt;Clipping Path&gt;"
+      d="M1559.1 1164.1s62.4 62.4 134.1 61.8 132.1-39.3 131.5-111-59.8-138.7-130.8-128.7c-137.9 19.5-134.8 177.9-134.8 177.9z"
+      fill="none" stroke="#31323d" stroke-linecap="round" stroke-miterlimit="10" stroke-width="10"></path>
+    <path d="M1822.2 1134.3s41.6-75.9 39.4-114.1c0 0-21.7 16.6-38 13.7l8.9-22.9-53.3 6.7s63.7 36.1 43 116.6z"
+      fill="#31323d"></path>
+  </g>

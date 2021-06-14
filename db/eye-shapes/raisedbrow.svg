@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 3000 3000" xmlns:xlink="http://www.w3.org/1999/xlink">
+
+  <g id="eye">
+    <circle cx="1168.9" cy="1127.6" r="129.7" fill="#fff" stroke="#31323d" stroke-width="10" stroke-miterlimit="10"
+      transform="rotate(-7.5 1174.6 1131.95)" stroke-linecap="round"></circle>
+    <circle cx="1197.6" cy="1154.6" r="72.4" fill="#43edac" transform="matrix(1 -.13 .13 1 -141 167)"></circle>
+    <circle cx="1200.6" cy="1155.6" r="53.4" fill="#31323d" transform="rotate(-7.5 1206.46 1160.09)"></circle>
+    <circle cx="1218.8" cy="1109.9" r="29" fill="#fff" transform="rotate(-8.11 1215.63 1131.74)"></circle>
+    <circle cx="1696" cy="1101.3" r="129.7" fill="#fff" stroke="#31323d" stroke-width="10" stroke-miterlimit="10"
+      transform="rotate(-82.5 1695.15 1101.41)" stroke-linecap="round"></circle>
+    <circle cx="1673.3" cy="1135.2" r="72.4" fill="#43edac" transform="rotate(-7.5 1680.49 1139.82)"></circle>
+    <circle cx="1676.3" cy="1136.3" r="53.4" fill="#31323d" transform="rotate(-7.5 1683.5 1140.79)"></circle>
+    <circle cx="1694.5" cy="1090.5" r="29" fill="#fff" transform="rotate(-7.5 1701.85 1094.49)"></circle>
+    <path fill="none" stroke="#31323d" stroke-width="30" stroke-miterlimit="10"
+      d="M1067.9 970c16.5-34 39.8-60 79.5-62 52.2-2.6 80.3 23.1 99.6 55.1m325.6 56.9a533.1 533.1 0 0 1 197.7-52.5"
+      stroke-linecap="round"></path>
+  </g>
