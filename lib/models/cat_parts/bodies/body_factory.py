@@ -1,5 +1,5 @@
-from lib.models.cat_parts.body.flame import FlameBody
-from lib.models.cat_parts.body.grassy import GrassyBody
+from lib.models.cat_parts.bodies.flame import FlameBody
+from lib.models.cat_parts.bodies.grassy import GrassyBody
 
 
 class CatBodyFactory:

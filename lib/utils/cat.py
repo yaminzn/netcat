@@ -1,3 +1,4 @@
+from lib.models.cat_parts.tails.const import TAIL
 from lib.utils.utils import Utils
 from lib.models.cat_parts.eye_shapes.const import EYE_SHAPE
 from lib.models.cat_parts.mouths.const import MOUTH
@@ -29,4 +30,12 @@ class CatUtils:
         MOUTH.CONFUZZLED,
         MOUTH.WUVME,
         MOUTH.YOKEL,
+    ])
+
+  @staticmethod
+  def get_random_tail_name():
+    return Utils.get_list_random_element([
+        TAIL.FLUFFY,
+        TAIL.NORMAL,
+        TAIL.SQUIRREL,
     ])

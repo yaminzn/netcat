@@ -8,7 +8,7 @@
           fill="none" />
       </clipPath>
       <g clip-path="url(#tailFurClipPath)">
-        <path fill="#d1dadf" d="M2842.9 2245.9L1904 2245.9 1904 1357.2 2894.6 1357.2 2842.9 2245.9z" />
+        <path fill="#2389c0" d="M2842.9 2245.9L1904 2245.9 1904 1357.2 2894.6 1357.2 2842.9 2245.9z" />
         <defs>
           <clipPath id="tailShadowClipPath">
             <path

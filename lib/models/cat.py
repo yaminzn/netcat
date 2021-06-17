@@ -1,7 +1,8 @@
-from lib.models.cat_parts.mouth_factory import CatMouthFactory
-from lib.models.cat_parts.eye_shape_factory import CatEyeShapeFactory
+from lib.models.cat_parts.tails.tail_factory import CatTailFactory
+from lib.models.cat_parts.mouths.mouth_factory import CatMouthFactory
+from lib.models.cat_parts.eye_shapes.eye_shape_factory import CatEyeShapeFactory
 from lib.utils.cat import CatUtils
-from lib.models.cat_parts.body_factory import CatBodyFactory
+from lib.models.cat_parts.bodies.body_factory import CatBodyFactory
 from lib.models.color import NamedColor
 from lib.utils.color import ColorUtils
 
@@ -24,6 +25,9 @@ class Cat:
     self.accent_color = NamedColor(accent_color_name or ColorUtils.get_random_color_name())
     self.highlight_color = NamedColor(highlight_color_name or ColorUtils.get_random_color_name())
 
+    TailClass = CatTailFactory.create(CatUtils.get_random_tail_name())
+    self.tail = TailClass(self.base_color.hex)
+
     BodyClass = CatBodyFactory.create(body_name or CatUtils.get_random_body_name())
     self.body = BodyClass(self.base_color.hex, self.accent_color.hex)
 
@@ -34,8 +38,9 @@ class Cat:
     self.mouth = MouthClass()
 
   def get_svg(self):
+    tail_svg = self.tail.get_svg()
     body_svg = self.body.get_svg()
     eye_shape_svg = self.eye_shape.get_svg()
     mouth_svg = self.mouth.get_svg()
 
-    return self.svg_template.format(content=body_svg+eye_shape_svg+mouth_svg)
+    return self.svg_template.format(content=tail_svg+body_svg+eye_shape_svg+mouth_svg)
