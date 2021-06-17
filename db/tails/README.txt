@@ -1,4 +1,0 @@
-couleurs:
--base
--shadows
--highlights
